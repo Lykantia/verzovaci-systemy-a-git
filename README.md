@@ -1,1 +1,1 @@
-# DA zkouška verzovací systémy
+# Lekce GITu
